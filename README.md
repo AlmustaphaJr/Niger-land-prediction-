@@ -1,2 +1,1 @@
-# Niger-land-prediction-
-An ai powered land price prediction model 
+# niger-land-prediction
